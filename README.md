@@ -1,3 +1,6 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![internal-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+
 # RATIONALE #
 
 A custom template for internal use, based on open-source tools. Some goals pointed: institution membership plus [Academia](https://www.academia.edu/), [CONICET](http://www.conicet.gov.ar/) graphical shortcuts 
@@ -23,7 +26,7 @@ A custom template for internal use, based on open-source tools. Some goals point
 
 ### Issues ###
 
-* Check them on [here](hhttps://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/issues) 
+* Check them on [here](hhttps://bitbucket.org/imhicihu/responsive-email-template/issues) 
 
 ### Contribution guidelines ###
 
@@ -39,7 +42,7 @@ A custom template for internal use, based on open-source tools. Some goals point
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/responsive-email-template/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 
 ### Legal ###
@@ -48,4 +51,4 @@ A custom template for internal use, based on open-source tools. Some goals point
 
 ### Licence ###
 
-* The content of this project itself is licensed under the {XXXXXXXXXXXXXX}      
+* The content of this project itself is licensed under the MIT License.     
