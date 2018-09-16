@@ -22,7 +22,7 @@ A custom template for internal use, based on open-source tools. Some goals point
 * Database configuration
     - No needed
 * Deployment instructions
-    - Just copy and paste our template. Modified to fit your needs
+    - Just copy and paste our template. Modify to fit your needs
 
 ### Issues ###
 
