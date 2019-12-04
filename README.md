@@ -45,6 +45,9 @@ A custom template for internal use, based on open-source tools. Some goals point
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/responsive-email-template/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/esponsive-email-template/src/master/code_of_conduct.md)
 
 ### Legal ###
 
