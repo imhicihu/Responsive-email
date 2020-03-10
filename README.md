@@ -5,6 +5,7 @@
 # RATIONALE #
 
 A custom template for internal use, based on open-source tools. Some goals pointed: institution membership plus [Academia](https://www.academia.edu/), [CONICET](http://www.conicet.gov.ar/) graphical shortcuts 
+![graphics.md](https://bitbucket.org/repo/qEX5Mq5/images/789346557-email_strategies.png)
 
 ### What is this repository for? ###
 
