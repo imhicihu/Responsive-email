@@ -29,6 +29,7 @@
 
 * Online tools
     - [Email builder](https://litmus.com/email-builder)
+    - [CSS inliner](https://www.campaignmonitor.com/resources/tools/css-inliner/)
     - [Litmus Scope](https://litmus.com/scope/)
     - [Background email bulletproof](https://backgrounds.cm/)
     - [CSS button generator](https://buttons.cm/)
