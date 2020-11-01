@@ -29,7 +29,9 @@
 
 * Online tools
     - [Email builder](https://litmus.com/email-builder)
+    - [Postdrop](https://app.postdrop.io/editor): Inline, send and test HTML email templates
     - [CSS inliner](https://www.campaignmonitor.com/resources/tools/css-inliner/)
+    - [Responsive Email CSS Inliner](https://htmlemail.io/inline/)
     - [Litmus Scope](https://litmus.com/scope/)
     - [Background email bulletproof](https://backgrounds.cm/)
     - [CSS button generator](https://buttons.cm/)
