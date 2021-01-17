@@ -18,6 +18,8 @@
      - Table HTML editor:
           - [DIV Table](https://divtable.com/generator/)
           - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+     - Graphics
+          - [Image to Base 64 Encoder](https://apps.apple.com/us/app/image-to-base64-encoder/id1479205687)
      - Coding
           - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
