@@ -40,6 +40,7 @@
     - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path 
     - [Libraries.io](https://libraries.io/): searcher and check dependencies and Github repos
     - [Email testing & staging](https://mailtrap.io/)
+    - [Putsmail](https://putsmail.com/): Test your HTML before sending them!
 
 ## Legal ##
 
