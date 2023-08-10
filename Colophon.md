@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements 
 
 * Hardware
 	- Macbook 13"
@@ -6,8 +6,8 @@
 	- Dell notebook 15"
 
 * Software
-     - Accesibility:
-        - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
+     - Accessibility:
+        - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accessibility
      - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
      - Dependencies & task runners
@@ -23,7 +23,8 @@
      - Coding
           - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
-            ![hero-debugger-ani.7e04d95e76ea.gif](https://bitbucket.org/repo/rpybXp8/images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
+        <BR></BR>
+        ![hero-debugger-ani.7e04d95e76ea.gif](images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
           - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
@@ -43,6 +44,6 @@
     - [Putsmail](https://putsmail.com/): Test your HTML before sending them!
     - [Can I email](https://www.caniemail.com/): deployment adviser
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
