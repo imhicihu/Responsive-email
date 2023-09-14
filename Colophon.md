@@ -21,7 +21,7 @@
      - Graphics
           - [Image to Base 64 Encoder](https://apps.apple.com/us/app/image-to-base64-encoder/id1479205687)
      - Coding
-          - ~~[Firebug](https://getfirebug.com/):~~ deprecated by Mozilla (html, javascript & css editor on browser add-on)
+          - ~~[Firebug](https://getfirebug.com/): deprecated by Mozilla (html, javascript & css editor on browser add-on)~~ 
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
         <BR></BR>
         ![hero-debugger-ani.7e04d95e76ea.gif](images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
