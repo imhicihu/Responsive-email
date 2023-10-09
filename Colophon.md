@@ -25,7 +25,6 @@
           - [Firefox Developer tools](https://developer.mozilla.org/en-US/docs/Tools): (html, javascript & css editor on browser add-on)
         <BR></BR>
         ![hero-debugger-ani.7e04d95e76ea.gif](images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
-          - [SourceTree](https://www.sourcetreeapp.com/): GIT (repositories management)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
           - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
