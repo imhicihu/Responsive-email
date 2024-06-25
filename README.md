@@ -44,10 +44,6 @@ A custom template for internal use, based on open-source tools. Some goals point
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 
-### Disclaimer
-
-* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
-
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
