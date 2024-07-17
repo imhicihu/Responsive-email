@@ -10,7 +10,7 @@ A custom template for internal use, based on open-source tools. Some goals point
 ### What is this repository for? ###
 
 * Quick summary
-    - Responsive email template (modifiable)
+    - Responsive email template (multi-purpose)
 * Version 1.01
 
 ### How do I get set up? ###
