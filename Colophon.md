@@ -27,7 +27,7 @@
         ![hero-debugger-ani.7e04d95e76ea.gif](images/3338372203-hero-debugger-ani.7e04d95e76ea.gif)
           - [Atom](https://atom.io): (code editor)
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-          - [Scrutiny](http://peacockmedia.software/mac/scrutiny/) (for mac): SEO and inner link checker
+
 
 * Online tools
     - [Email builder](https://litmus.com/email-builder)
