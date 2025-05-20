@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head>
+    <mj-title>IMHICIHU</mj-title>
+
+    <mj-attributes>
+      <mj-all font-family="Helvetica, sans-serif" />
+      <mj-text font-weight="300" font-size="14px" color="#425466" line-height="20px" padding="0px" />
+      <mj-section padding="0px" />
+      <mj-image padding="0px" />
+      <mj-column padding-top="0px" padding-bottom="0px" />
+      <mj-wrapper padding-top="0px" padding-bottom="0px" />
+      <mj-button background-color="#635BFF" border-radius="24px" font-weight="bold" inner-padding="12px 25px 12px 25px" font-size="14px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#F1F5F9">
+    <mj-section padding="20px"></mj-section>
+
+    <mj-wrapper background-color="#e4e9fe">
+      <mj-section padding="50px 64px 30px 64px">
+        <mj-column width="100%">
+          <mj-image align="left" src="https://raw.githubusercontent.com/imhicihu/Responsive-email/refs/heads/master/images/logo.png" alt="" width="86px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%" padding="0px 64px 0px 64px">
+          <mj-text align="left">
+            <p>Estimado:</p>
+            <p>
+              Tal cual te adelantara, es un proyecto interno, para mostrar bases de datos, no solamente libros sino activos digitales. El mismo es ultra-minimalista en los recursos técnicos. El mismo lo encontrás en https://biblio-searcher-v2.vercel.app/ . 
+          </p>
+          <p>
+          El repositorio donde está el código está en https://github.com/imhicihu/Biblio-searcher_v2 . 
+        </p>
+        <p>
+          El archivo en el cual tenés que fijarte es index.html. 
+        </p>
+            <p>Dejo este hilo de comunicación ante cualquier duda que tengas</p>
+            <p>Mis respetos,</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 64px 8px 64px">
+        <mj-group width="100%">
+          <mj-column width="24px" padding-top="2px">
+            <mj-image src="./assets/bullet.png" alt="" width="12px" />
+          </mj-column>
+          <mj-column width="85%">
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      
+
+
+
+    </mj-wrapper>
+
+    <mj-section background-color="#F6F9FC" padding="40px 64px">
+      <mj-column width="100%">
+  
+        <mj-text font-size="12px" line-height="15px" color="#525F7F" align="center">
+          <a style="text-decoration: none; color: #525f7f;" href="#" target="_blank" rel="noopener">IMHICIHU-CONICET</a>, <a style="text-decoration: none; color: #525f7f;" href="#" target="_blank" rel="noopener">Saavedra 15, Balvanera, GPS: -34.610241462108, -58.4034342797143; C1083ACA; Ciudad Autónoma de Buenos Aires, Argentina</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column padding-top="20px" width="100%">
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px"></mj-section>
+  </mj-body>
+</mjml>
