@@ -6,3 +6,4 @@
 * [HTML to Text Email Converter](https://templates.mailchimp.com/resources/html-to-text/)
 * [Can I email](https://www.caniemail.com/)
 * [MJML Liquid Preview](https://www.mjmliquid.com/editor)
+* [CORS check](https://customer.io/tools/cors-check): Can I send this image or font in my email?
