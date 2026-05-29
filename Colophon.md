@@ -3,7 +3,8 @@
 * Hardware
 	- Macbook 13"
 	- Macbook 15"
-	- Dell notebook 15"
+  - Mac Mini
+	- ~~Dell notebook 15"~~
 
 * Software
      - Accessibility:
