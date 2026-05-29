@@ -2,5 +2,5 @@
 * The simpler, the better
 * 800 x 600 pixels
 * responsive framework
-* no javascript, no `iframe`, no flash, no `div` layering 
-* agnostic to different email clients
+* ~~no javascript~~, no `iframe`, ~~no flash~~, no `div` layering 
+* agnostic to [different email clients](https://en.wikipedia.org/wiki/Comparison_of_email_clients)
