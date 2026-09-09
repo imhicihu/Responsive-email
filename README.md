@@ -7,7 +7,7 @@
 ## RATIONALE / [Motivación](LEEME.md)
 
 A custom template for internal use, based on open-source tools. Some goals pointed: institution membership plus [Academia](https://www.academia.edu/), [CONICET](http://www.conicet.gov.ar/) graphical shortcuts 
-![graphics.md](images/789346557-email_strategies.png)
+![diagram](images/diagram.png)
 
 ### What is this repository for? ###
 
