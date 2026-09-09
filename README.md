@@ -4,7 +4,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# RATIONALE / [Motivación](LEEME.md)
+## RATIONALE / [Motivación](LEEME.md)
 
 A custom template for internal use, based on open-source tools. Some goals pointed: institution membership plus [Academia](https://www.academia.edu/), [CONICET](http://www.conicet.gov.ar/) graphical shortcuts 
 ![graphics.md](images/789346557-email_strategies.png)
@@ -52,8 +52,8 @@ A custom template for internal use, based on open-source tools. Some goals point
 
 ### Legal ###
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
 
 ### Licence ###
 
-* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png).     
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
